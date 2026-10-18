@@ -18,13 +18,13 @@ Support is completely optional — using, sharing, testing, and reporting issues
 
 ## License & Copyright
 
-Copyright © 2026 **SYIT TECH**
+Copyright © 2026 **SYIT-TECH**
 
 AXE is **source-available software**.
 
-Under this license, the original NODIX-TECH software may be used for permitted non-commercial purposes, subject to the complete license terms.
+Under this license, the original SYIT-TECH software may be used for permitted non-commercial purposes, subject to the complete license terms.
 
-The license does not grant permission to redistribute the software or to make modifications, derivative works, rebranded versions, or repackaged versions of the original SYIT TECH software.
+The license does not grant permission to redistribute the software or to make modifications, derivative works, rebranded versions, or repackaged versions of the original SYIT-TECH software.
 
 See:
 
