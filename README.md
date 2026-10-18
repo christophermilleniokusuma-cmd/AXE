@@ -18,15 +18,13 @@ Support is completely optional — using, sharing, testing, and reporting issues
 
 ## License & Copyright
 
-Copyright © 2026 **NODIX-TECH**
+Copyright © 2026 **SYIT TECH**
 
-MFG SUPER MOTION is **source-available software**.
-
-Original portions of MFG SUPER MOTION created and owned by NODIX-TECH are licensed under the **PolyForm Strict License 1.0.0**.
+AXE is **source-available software**.
 
 Under this license, the original NODIX-TECH software may be used for permitted non-commercial purposes, subject to the complete license terms.
 
-The license does not grant permission to redistribute the software or to make modifications, derivative works, rebranded versions, or repackaged versions of the original NODIX-TECH software.
+The license does not grant permission to redistribute the software or to make modifications, derivative works, rebranded versions, or repackaged versions of the original SYIT TECH software.
 
 See:
 
